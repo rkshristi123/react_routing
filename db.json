@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+     "name" : "SmartPhone",
+      "price": 30,
+      "id" : 1,
+      "img":"https://m.media-amazon.com/images/I/61L1ItFgFHL._SL1500_.jpg"
+  },
+  {
+      "name" : "Watch",
+      "price" : 20,
+      "id" : 2,
+      "img":"https://n4.sdlcdn.com/imgs/i/z/i/HMTe-HM-9072-Metal-Analog-SDL494827480-1-db8fc.jpg"
+  },
+  {
+      "name" : "Shirt",
+      "price" : 50,
+      "id" : 3,
+      "img":"https://rukminim1.flixcart.com/image/312/312/kfoapow0-0/shirt/f/3/h/m-hlsh008879-highlander-original-imafw2ggvf6uxrhq.jpeg?q=70"
+  },
+  {
+      "name" : "Pants",
+      "price" : 100,
+      "id" : 4,
+      "img":"https://assets.ajio.com/medias/sys_master/root/20211012/gYIl/6165b811aeb2692b85d1c091/-473Wx593H-462140625-brown-MODEL.jpg"
+  }
+  ]
+  
+}
